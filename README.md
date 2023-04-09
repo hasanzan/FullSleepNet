@@ -1,4 +1,4 @@
-# Multi-task learning for sleep arousal and stage detection using fully convolutional networks: FullSleepNet
+# Multi-task learning for sleep arousal and stage detection using fully convolutional networks
 ## $\text{\textcolor{red}{(This repository will be updated when the paper is accepted)}}$
 
 ## Introduction
