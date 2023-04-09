@@ -18,5 +18,9 @@ Model can be retrained using two Jupyter notebooks: `main_shhs.ipynb` and `main_
 ## Models
 Models used in the paper can be found in https://github.com/hasanzan/FullSleepNet/tree/main/models.
 
+## Examples
+![figure3 - Kopya](https://user-images.githubusercontent.com/129799320/230774935-ac0586e2-4b80-41f2-a8a1-487bf914c993.png)
+![figure5 - Kopya](https://user-images.githubusercontent.com/129799320/230774948-206439c1-89da-4519-b3b6-664084ddc71d.png)
+
 ## Cite as
 It will be added
