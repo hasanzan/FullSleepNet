@@ -14,7 +14,7 @@ The architecture of FullSleepNet:
 Model can be retrained using two Jupyter notebooks: `main_shhs.ipynb` and `main_mesa.ipynb`. Note that PSG data and labels should be downloaded from https://sleepdata.org/datasets/shhs/ and https://sleepdata.org/datasets/mesa. Files should be placed in `/shhs/data/`, `/shhs/labels/` and `/mesa/data/`, `/mesa/labels/`. 
 
 ## Evaluation
-Model can be retrained using two Jupyter notebooks: `main_shhs.ipynb` and `main_mesa.ipynb`. Weights for full model trained as explained in the paper can be found in https://github.com/hasanzan/FullSleepNet/edit/main/weights.
+Model can be retrained using two Jupyter notebooks: `main_shhs.ipynb` and `main_mesa.ipynb`. Weights for full model trained as explained in the paper can be found in https://github.com/hasanzan/FullSleepNet/edit/main/weights. Files should be unzipped and loaded as `model.load_weights("shhs_model-C8-L3A")` or `model.load_weights("mesa_model-C8-L3A")`.
 
 ## Models
 Models used in the paper can be found in https://github.com/hasanzan/FullSleepNet/tree/main/models.
