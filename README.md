@@ -1,5 +1,4 @@
 # Multi-Task Learning for Arousal and Sleep Stage Detection Using Fully Convolutional Networks
-## $\text{\textcolor{red}{(This repository will be updated when the paper is accepted)}}$
 
 ## Introduction
 Source code for FullSleepNet developed for the paper "Multi-task learning for sleep arousal and stage detection using fully convolutional networks".
