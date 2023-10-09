@@ -23,4 +23,4 @@ Code for FullSleepNet and its variants used in the paper can be found in https:/
 ![figure5 - Kopya](https://user-images.githubusercontent.com/129799320/230774948-206439c1-89da-4519-b3b6-664084ddc71d.png)
 
 ## Cite as
-It will be added.
+H. Zan and A. Yildiz, "Multi-task learning for arousal and sleep stage detection using fully convolutional networks," *Journal of Neural Engineering*, vol. 20, no. 5, p. 056034, 2023. 
